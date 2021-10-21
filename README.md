@@ -1,7 +1,5 @@
 - 👋 Hi, I’m shoaib
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking for a job 
 - 📫 How to reach me sloo.slow@gmail.com
 
 <!---
